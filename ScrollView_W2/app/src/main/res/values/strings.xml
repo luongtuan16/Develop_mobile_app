@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ScrollView_W2</string>
+    <string name="article_subtitle">Easy for you, tough for a robot</string>
+    <string name="article_text">You ’ ra sitting across from a automaton, staring at a chess board. finally, you see a act that looks pretty good. You reach out and push your queen fore. now it ’ s the automaton ’ south twist. Its calculator brain calculates a winning move in a divide of a second. But when it tries to grab a knight, it knocks down a course of pawns. Game over .
+“ Robots are klutzes, ” says Ken Goldberg. He ’ s an engineer and artificial intelligence ( AI ) expert at the University of California, Berkeley. A calculator can easily defeat a human grandmaster at the game of chess by coming up with better moves. Yet a automaton has trouble picking up an actual chess piece .
+This is an example of Moravec ’ s paradox. Hans Moravec is a roboticist at Carnegie Mellon University in Pittsburgh, Penn., who besides writes about AI and the future. back in 1988, he wrote a book that noted how reason tasks that seem hard to people are reasonably comfortable to course of study into computers. meanwhile, many tasks that come easily to us — like moving about, seeing or grasping things — are quite hard to program .
+It ’ mho “ difficult or impossible ” for a calculator to match a one-year-old baby ’ mho skills in these areas, he wrote. Though computers have advanced by leaps and bounds since then, babies and kids still beat machines at these types of tasks.
+Reading: Easy for you, tough for a robot.
+        For more information, visit https://newstoday.pro/technology-articles-for-students-1643386637/
+It turns out that the tasks we find easy aren ’ t in truth “ easy ” at all. As you walk around your house or pick up and move a chess piece, your brain is performing incredible feats of calculation and coordination. You just don ’ deoxythymidine monophosphate notice it because you do it without thinking .
+Let ’ s take a look at several tasks that are easy for kids but not for robots. For each one, we ’ ll find out why the job is actually so hard. We ’ ll besides learn about the brilliant work engineers and computer scientists are doing to design fresh AI that should help robots up their game .
+</string>
+    <string name="article_title">Tech news</string>
+</resources>
